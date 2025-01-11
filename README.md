@@ -1,0 +1,2 @@
+# nextjs-playground
+Practising NextJs
